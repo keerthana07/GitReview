@@ -7,6 +7,7 @@
 * Creating a branch
 * Commit a change to a file
 * Commit a new file
+* Squashing commits
 * Amending a commit
 * Pushing your changes to Github
 
